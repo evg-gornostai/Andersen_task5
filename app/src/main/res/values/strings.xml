@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">fragmentsTask</string>
+
+    <string name="contacts_header">Информация контакта: [CONTACT_NAME]</string>
 </resources>
